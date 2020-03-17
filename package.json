@@ -1,0 +1,21 @@
+{
+  "name": "hrpng-loader",
+  "version": "1.0.0",
+  "description": "auto resolve High resolution icon when import an icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "High resolution icon",
+    "icon",
+    "png",
+    "@2x",
+    "@3x"
+  ],
+  "author": "dyxuan",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.4.0"
+  }
+}
